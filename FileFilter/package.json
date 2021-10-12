@@ -9,7 +9,7 @@
   "author": "Samuel Meyer",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^11.5.0"
   },
   "dependencies": {
     "run-electron": "^1.0.0"
